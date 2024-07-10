@@ -93,6 +93,9 @@
 main {
   margin: 119px 148px;
 }
+main section {
+  margin-top: 90px;
+}
 
 /* section why webdevelopment  */
 .why_webdevelopment {
@@ -155,3 +158,17 @@ main {
 .web_development_card_left {
   width: 80%;
 }
+/* web development ends from here  */
+
+/* section my inspiration start from  hrer  */
+.my__inspiration .section-description {
+  margin-top: 24px;
+}
+.my__inspiration .youtube__video {
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  padding: 32px;
+  margin-top: 48px;
+}
+/* section my inspiration ends from  hrer  */
