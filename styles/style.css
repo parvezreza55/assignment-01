@@ -172,3 +172,64 @@ main section {
   margin-top: 48px;
 }
 /* section my inspiration ends from  hrer  */
+
+/* my current section start from here  */
+
+.card__container {
+  display: flex;
+  gap: 24px;
+  margin-top: 48px;
+  justify-content: space-between;
+}
+.card__container .card__title {
+  color: rgb(13, 19, 33);
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 36px;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+.my__current__terget .section-title {
+  margin-top: 151px;
+  margin-bottom: 24px;
+}
+.my__current__terget .section-description {
+  margin-bottom: 48px;
+}
+.card__container .card__desc {
+  color: rgb(13, 19, 33);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 0.7;
+  text-align: left;
+  margin-bottom: 24px;
+}
+.card__container .learn__more__btn {
+  color: rgb(13, 19, 33);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+}
+.card__container .card {
+  padding: 40px;
+  border-radius: 16px;
+  width: 340px;
+}
+.card__container .html__card {
+  background: rgba(255, 76, 30, 0.05);
+}
+.card__container .css__card {
+  background: rgba(0, 76, 232, 0.05);
+}
+.card__container .javascript__card {
+  background: rgba(255, 223, 0, 0.05);
+}
+.html__card .card__desc {
+  margin-bottom: 54px;
+}
+.css__card .card__desc {
+  margin-bottom: 39px;
+}
+
+/* my current section ends from here  */
