@@ -233,3 +233,47 @@ main section {
 }
 
 /* my current section ends from here  */
+
+/* need support start from here  */
+.need__support .section-title {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  margin-bottom: 16px;
+}
+.need__support .section-description {
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 24px;
+}
+.need__support {
+  border-radius: 16px;
+  background-image: url("../assets/handshake.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 64px 48px;
+}
+.need__support input[type="text"] {
+  padding: 19px 215px 19px 20px;
+  border-radius: 8px;
+  border: none;
+  color: rgba(13, 19, 33, 0.4);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19px;
+  width: 30%;
+}
+.need__support input[type="button"] {
+  padding: 17px 22px;
+  border-radius: 8px;
+  border: none;
+  color: rgb(13, 19, 33);
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 23px;
+}
+/* need support ends from here  */
